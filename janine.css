@@ -1,5 +1,11 @@
-.cabecalho
+.cabecalho 
 {
-    background-color:aliceblue
-    
+    background-color: aliceblue;
 }
+h1{
+    text-align: center;
+}
+h2{
+    background-color: blue;
+}
+.imagem
