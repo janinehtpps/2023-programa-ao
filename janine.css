@@ -1,6 +1,11 @@
+
 .cabecalho 
 {
-    background-color: aliceblue;
+    background-color:aliceblue
+
+}
+h1{
+    background-color : aliceblue;
 }
 h1{
     text-align: center;
@@ -8,4 +13,24 @@ h1{
 h2{
     background-color: blue;
 }
-.imagem
+.imagem{
+    width: 20px;
+    background-image: -o-linear-gradient();
+}
+P {
+    font-size: 18px
+}
+.paragrafo1 {
+    font-size: 30px;
+}
+.paragrafos {
+    font-size: 18xp;
+}
+.lista {
+    display: inline-block;
+    margin: 16px;
+
+}
+
+
+
