@@ -1,3 +1,14 @@
+.cabecalho 
+{
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+h2{
+    background-color: blue;
+}
+.imagem
 
 .cabecalho 
 {
@@ -27,10 +38,6 @@ P {
     font-size: 18xp;
 }
 .lista {
-    display: inline-block;
-    margin: 16px;
-
+    display: inline-block
+    margin 16xp;
 }
-
-
-
