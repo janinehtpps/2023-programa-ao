@@ -1,43 +1,12 @@
-.cabecalho 
-{
-    background-color: aliceblue;
+.cabecalho{
+    background-color: aqua;
 }
-h1{
+.fonte {
+    font-size: 30xp;
+}
+.lista{
     text-align: center;
 }
-h2{
-    background-color: blue;
-}
-.imagem
-
-.cabecalho 
-{
-    background-color:aliceblue
-
-}
-h1{
-    background-color : aliceblue;
-}
-h1{
-    text-align: center;
-}
-h2{
-    background-color: blue;
-}
-.imagem{
-    width: 20px;
-    background-image: -o-linear-gradient();
-}
-P {
-    font-size: 18px
-}
-.paragrafo1 {
-    font-size: 30px;
-}
-.paragrafos {
-    font-size: 18xp;
-}
-.lista {
-    display: inline-block
-    margin 16xp;
+.footer{
+    background-color: black;
 }
